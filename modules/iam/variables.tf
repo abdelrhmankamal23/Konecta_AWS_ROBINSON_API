@@ -1,0 +1,1 @@
+# No variables needed - all IAM roles are hardcoded
